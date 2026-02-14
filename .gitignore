@@ -20,7 +20,7 @@ erl_crash.dump
 *.ez
 
 # Ignore package tarball (built via "mix hex.build").
-aoc_2025-*.tar
+aoc_2019-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
